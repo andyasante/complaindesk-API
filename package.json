@@ -1,0 +1,9 @@
+{
+	"name": "complaindesk",
+	"auther": "spacelab",
+	"main": "server.js",
+	"dependencies": {
+		"express": "*",
+		"body-parser": "*"
+	}
+}
